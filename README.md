@@ -1,5 +1,5 @@
 
-# *اهلا بكم في سورس كوبرا*
+# *اهلا بكم في سورس سوراقين*
 # ___________________________
 
 **سورس كوبرا هو سورس جديد ومحدث ويحتوي على الكثير من الاضافات والتحديثات الجديدة**
@@ -8,7 +8,7 @@
 
 
 
-[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERTWF/cobra)
+(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aliking121/kingcobra)
 
 
 **its simple source based on catuserbot but in arabic language !**
