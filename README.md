@@ -2,7 +2,7 @@
 # *اهلا بكم في سورس سوراقين*
 # ___________________________
 
-**سورس كوبرا هو سورس جديد ومحدث ويحتوي على الكثير من الاضافات والتحديثات الجديدة**
+** سورس سوراقين هو سورس جديد ومحدث على الكثير من الاضافات والتحديثات الجديدة**
 
 [قناة السورس على نلكرام](https://t.me/VFF35)
 
@@ -13,7 +13,7 @@
 
 **its simple source based on catuserbot but in arabic language !**
 __________________________
-**[wale userbot](https://t.me/ghtanisaeed)**
-**[𝘀𝗼𝘂𝗿𝗰𝗲 𝗰𝗼𝗯𝗿𝗮](https://t.me/alsonnah_alnbwiah)**
+** [wale userbot] (https://t.me/ghtanisaeed) **
+** [𝘀𝗼𝘂𝗿𝗰𝗲 𝗰𝗼𝗯𝗿𝗮] (https://t.me/alsonnah_alnbwiah) **
 __________________________
 **and thanks to telethon arab source**
